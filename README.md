@@ -32,4 +32,4 @@ BSc. Computer Science at the [FPT University](https://university.fpt.edu.vn)
 
 ## Projects (TBD)
 
-📫 Please do not hesistate reaching out to me on [LinkedIn](https://www.linkedin.com/in/vtq/)
+📫 Please do not hesistate to contact me. [LinkedIn](https://www.linkedin.com/in/vtq/)
