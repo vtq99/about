@@ -10,17 +10,14 @@
 
 ## What makes Tuan-Quang unique?
 
-👨🏻‍💻 Agile
+👨🏻‍💻 **Agile:**
 He learns fast and enjoys solving complex problems through his logical, analytical way of working.
 
-💡 Innovative
+💡 **Innovative:**
 He stands out for his original thinking. He seeks beyond the obvious route when it comes to problem solving.
 
-👥 Diplomatic
+👥 **Diplomatic:**
 He is cooperative and looks for a win for all sides. He is good at relating to people and thinking of their needs.
-
-📫 Please do not hesistate reaching out to me on [LinkedIn](https://www.linkedin.com/in/vtq/)
-
 
 ## Education
 
@@ -34,3 +31,5 @@ BSc. Computer Science at the [FPT University](https://university.fpt.edu.vn)
 
 
 ## Projects (TBD)
+
+📫 Please do not hesistate reaching out to me on [LinkedIn](https://www.linkedin.com/in/vtq/)
