@@ -32,6 +32,4 @@ BSc. Computer Science at the [FPT University](https://university.fpt.edu.vn)
 
 ## Projects (TBD)
 
-![Tuan-Quang's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtq99&theme=dark&show_icons=true)
-
 📫 Please do not hesistate reaching out to me on [LinkedIn](https://www.linkedin.com/in/vtq/)
